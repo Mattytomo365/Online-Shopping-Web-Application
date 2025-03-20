@@ -1,0 +1,278 @@
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/appsettings.json
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/ShoppingToYou.exe
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/ShoppingToYou.deps.json
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/ShoppingToYou.runtimeconfig.json
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/ShoppingToYou.runtimeconfig.dev.json
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/ShoppingToYou.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/ref/ShoppingToYou.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/ShoppingToYou.pdb
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/ShoppingToYou.Views.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/ShoppingToYou.Views.pdb
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/Dapper.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/Dapper.Contrib.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/Humanizer.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/Microsoft.AspNetCore.Razor.Language.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/Microsoft.CodeAnalysis.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/Microsoft.CodeAnalysis.Razor.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/dotnet-aspnet-codegenerator-design.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/Newtonsoft.Json.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/System.Composition.AttributedModel.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/System.Composition.Convention.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/System.Composition.Hosting.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/System.Composition.Runtime.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/System.Composition.TypedParts.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/System.Data.SqlClient.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.resources.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.resources.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.resources.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/runtimes/win-arm/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/runtimes/win-arm64/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/runtimes/win-arm64/native/sni.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/runtimes/win-x64/native/sni.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/runtimes/win-x86/native/sni.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/ShoppingToYou.GeneratedMSBuildEditorConfig.editorconfig
+C:/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/ShoppingToYou.AssemblyInfoInputs.cache
+C:/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/ShoppingToYou.AssemblyInfo.cs
+C:/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/ShoppingToYou.csproj.CoreCompileInputs.cache
+C:/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/ShoppingToYou.MvcApplicationPartsAssemblyInfo.cache
+C:/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/ShoppingToYou.RazorAssemblyInfo.cache
+C:/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/ShoppingToYou.RazorAssemblyInfo.cs
+C:/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/staticwebassets/ShoppingToYou.StaticWebAssets.Manifest.cache
+C:/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/staticwebassets/ShoppingToYou.StaticWebAssets.xml
+C:/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/scopedcss/bundle/ShoppingToYou.styles.css
+C:/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/ShoppingToYou.TagHelpers.input.cache
+C:/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/ShoppingToYou.TagHelpers.output.cache
+C:/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/ShoppingToYou.RazorCoreGenerate.cache
+C:/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/Razor/Views/Account/Login.cshtml.g.cs
+C:/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/Razor/Views/Account/LoginLayout.cshtml.g.cs
+C:/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/Razor/Views/Account/Register.cshtml.g.cs
+C:/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/Razor/Views/Order/CustomerDetailsPartial.cshtml.g.cs
+C:/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/Razor/Views/Order/EditOrderPartial.cshtml.g.cs
+C:/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/Razor/Views/Order/Index.cshtml.g.cs
+C:/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/Razor/Views/Order/OrderThanks.cshtml.g.cs
+C:/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/Razor/Views/Order/ProductDetails.cshtml.g.cs
+C:/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/Razor/Views/Order/ProductDetailsPartial.cshtml.g.cs
+C:/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+C:/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/Razor/Views/Shared/ValidationScriptsPartial.cshtml.g.cs
+C:/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/Razor/Views/Shared/_Empty.cshtml.g.cs
+C:/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/Razor/Views/Stock/Index.cshtml.g.cs
+C:/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/Razor/Views/Stock/ManageStock.cshtml.g.cs
+C:/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/Razor/Views/Stock/_CreateStockPartial.cshtml.g.cs
+C:/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/Razor/Views/Stock/_EditStockPartial.cshtml.g.cs
+C:/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/Razor/Views/Stock/_ProductDetailsPartial.cshtml.g.cs
+C:/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+C:/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+C:/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/ShoppingToYou.RazorTargetAssemblyInfo.cache
+C:/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/ShoppingToYou.RazorTargetAssemblyInfo.cs
+C:/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/ShoppingToYou.Views.pdb
+C:/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/ShoppingToYou.csproj.CopyComplete
+C:/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/ShoppingToYou.dll
+C:/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/ref/ShoppingToYou.dll
+C:/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/ShoppingToYou.pdb
+C:/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/ShoppingToYou.genruntimeconfig.cache
+C:/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+C:/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/ShoppingToYou.csproj.AssemblyReference.cache
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/appsettings.json
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/ShoppingToYou.StaticWebAssets.xml
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/ShoppingToYou
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/ShoppingToYou.deps.json
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/ShoppingToYou.runtimeconfig.json
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/ShoppingToYou.runtimeconfig.dev.json
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/ShoppingToYou.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/ShoppingToYou.pdb
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/ShoppingToYou.Views.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/ShoppingToYou.Views.pdb
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/Dapper.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/Dapper.Contrib.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/Humanizer.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/Microsoft.CodeAnalysis.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/dotnet-aspnet-codegenerator-design.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/System.Composition.AttributedModel.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/System.Composition.Convention.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/System.Composition.Hosting.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/System.Composition.Runtime.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/System.Composition.TypedParts.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/System.Data.SqlClient.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/runtimes/win-arm/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/runtimes/win-arm64/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/runtimes/win-arm64/native/sni.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/runtimes/win-x64/native/sni.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/runtimes/win-x86/native/sni.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/bin/Debug/net5.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/ShoppingToYou.csproj.AssemblyReference.cache
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/ShoppingToYou.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/ShoppingToYou.AssemblyInfoInputs.cache
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/ShoppingToYou.AssemblyInfo.cs
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/ShoppingToYou.csproj.CoreCompileInputs.cache
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/ShoppingToYou.MvcApplicationPartsAssemblyInfo.cache
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/ShoppingToYou.RazorAssemblyInfo.cache
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/ShoppingToYou.RazorAssemblyInfo.cs
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/ShoppingToYou.sourcelink.json
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/ShoppingToYou.TagHelpers.input.cache
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/ShoppingToYou.TagHelpers.output.cache
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/ShoppingToYou.RazorCoreGenerate.cache
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/Razor/Views/Account/Login.cshtml.g.cs
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/Razor/Views/Account/LoginLayout.cshtml.g.cs
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/Razor/Views/Account/Register.cshtml.g.cs
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/Razor/Views/Order/CustomerDetailsPartial.cshtml.g.cs
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/Razor/Views/Order/EditOrderPartial.cshtml.g.cs
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/Razor/Views/Order/Index.cshtml.g.cs
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/Razor/Views/Order/OrderThanks.cshtml.g.cs
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/Razor/Views/Order/ProductDetails.cshtml.g.cs
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/Razor/Views/Order/ProductDetailsPartial.cshtml.g.cs
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/Razor/Views/Shared/ValidationScriptsPartial.cshtml.g.cs
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/Razor/Views/Shared/_Empty.cshtml.g.cs
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/Razor/Views/Stock/Index.cshtml.g.cs
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/Razor/Views/Stock/ManageStock.cshtml.g.cs
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/Razor/Views/Stock/_CreateStockPartial.cshtml.g.cs
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/Razor/Views/Stock/_EditStockPartial.cshtml.g.cs
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/Razor/Views/Stock/_ProductDetailsPartial.cshtml.g.cs
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/ShoppingToYou.RazorTargetAssemblyInfo.cache
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/ShoppingToYou.RazorTargetAssemblyInfo.cs
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/ShoppingToYou.Views.pdb
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/scopedcss/bundle/ShoppingToYou.styles.css
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/staticwebassets/ShoppingToYou.StaticWebAssets.Manifest.cache
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/staticwebassets/ShoppingToYou.StaticWebAssets.Pack.cache
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/staticwebassets/msbuild.ShoppingToYou.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/staticwebassets/msbuild.build.ShoppingToYou.props
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/staticwebassets/msbuild.buildMultiTargeting.ShoppingToYou.props
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/staticwebassets/msbuild.buildTransitive.ShoppingToYou.props
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/Shopping.01172602.Up2Date
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/ShoppingToYou.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/refint/ShoppingToYou.dll
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/ShoppingToYou.pdb
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/ShoppingToYou.genruntimeconfig.cache
+/Users/matthewtomlinson/Library/CloudStorage/OneDrive-Personal/Sixth Form/NEA/Dev/shoppingmvc/ShoppingToYou/obj/Debug/net5.0/ref/ShoppingToYou.dll

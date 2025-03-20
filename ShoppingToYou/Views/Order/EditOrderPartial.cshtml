@@ -1,0 +1,43 @@
+﻿@*Modal popup for editing an order*@
+@model ShoppingToYou.Models.OrderLineDetail
+
+<h4>ProductDetails</h4>
+<hr />
+<div class="form-styling">
+    <div class="row">
+        <div class="col-md-4">
+            <form asp-action="EditOrder" enctype="multipart/form-data">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                <input asp-for="ID" class="form-control" type="hidden" />
+                <input asp-for="CustomerId" class="form-control" type="hidden" />
+
+                <div class="form-group">
+                    <label asp-for="ProductDescription" class="control-label"></label>
+                    <input asp-for="ProductDescription" class="form-control" disabled />
+                    <span asp-validation-for="ProductDescription" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="ProductPrice" class="control-label"></label>
+                    <input asp-for="ProductPrice" class="form-control" disabled />
+                    <span asp-validation-for="ProductPrice" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="OrderQuantity" class="control-label"></label>
+                    <input asp-for="OrderQuantity" class="form-control" />
+                    <span asp-validation-for="OrderQuantity" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <input type="submit" value="Save" style="background-color: #13921e; color: white; " />
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <div>
+        <a asp-action="index">Back to List</a>
+    </div>
+</div>
+
+@{await Html.RenderPartialAsync("ValidationScriptsPartial");}
+

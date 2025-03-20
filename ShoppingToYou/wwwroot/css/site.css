@@ -1,0 +1,152 @@
+﻿ 
+a.navbar-brand {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a {
+  color: #0366d6;
+}
+
+.btn-primary {
+    color: #00008B;
+    background-color: #00008B;
+    border-color: #00008B;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+html {
+  font-size: 14px;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.border-top {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px; 
+}
+
+.ui-autocomplete {
+    z-index: 100;
+}
+
+.header {
+    background-color: #1b6aba;
+    color: white;
+    padding: 20px;
+}
+
+.logout {
+    float: right;
+    color: white;
+    font-size: 24px;
+    
+}
+
+.displayuser {
+    float: right;
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.newlogo {
+    width: auto;
+    height: auto;
+    max-width: 80px;
+    max-height:80px;
+}
+
+.logo, .title{
+    display: inline-block;
+}
+
+#logo {
+    width:80px;
+    height:80px;
+}
+
+.submitbutton {
+    background-color: #1b6aba;
+    color: white;
+}
+
+.form-styling{
+    padding-left:20px;
+}
+
+.heading{
+    padding : 40px;
+}
+
+.greeting {
+    margin: auto;
+    text-align: center;
+    font-size: 50px;
+    padding: 40px;
+    color: #1b6aba; 
+}
+
+.thanks {
+    padding: 30px;
+}
+
+.carouselposition{
+    padding-left: 200px;
+    padding-top: 100px;
+}
+.managestockheader{
+    text-align: center;
+    padding-top: 30px;
+}
+
+.center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.productdetails{
+    padding-top: 100px;
+}
+
+

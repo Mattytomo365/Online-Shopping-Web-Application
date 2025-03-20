@@ -1,0 +1,119 @@
+﻿@*Page displayed after manage stock button is clicked*@
+@{
+    ViewData["Title"] = "Manage Stock";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div>
+    <a asp-action="index">Return Home</a>
+</div>
+
+<h1 class="managestockheader">Manage Stock</h1>
+<p>
+    <a href="#" class="add-product btn btn-success center">Add Product</a>
+</p>
+
+<input type="text" id="productDescriptions" placeholder="Search Products, Enter Description" style="margin-left: 420px; width: 270px; border: solid 1px #1b6aba; margin-top: 50px;" />
+
+<div id="partialViewManageStock">
+
+</div>
+
+<div id='addProductModal' class='modal'>
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div id='addModalContent'></div>
+        </div>
+    </div>
+
+</div>
+
+<div id='editProductModal' class='modal'>
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div id='modalContent'></div>
+        </div>
+    </div>
+
+</div>
+
+
+@section Scripts {
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+
+            // Setup autocomplete search box
+            $("#productDescriptions").autocomplete({
+                source: function (request, response) {
+                    $.ajax({
+                        url: '/find',
+                        data: { "term": request.term },
+                        dataType: "json",
+                        success: function (data) {
+                            response($.map(data, function (item) {
+                                return {
+                                    label: item.productDescription, value: item.productID
+                                }
+                                //return item;
+                            }))
+                        },
+                        error: function (xhr, textStatus, error) {
+                            alert(xhr.statusText);
+                            alert(textStatus);
+                            alert(error);
+                        },
+                        failure: function (response) {
+                            alert("failure " + response.responseText);
+                        }
+                    });
+                },
+                select: function (e, i) {
+                    GetProducts(i.item.value);
+                },
+                minLength: 3
+            });
+            // Routes to GetProducts action on selection from autocomplete
+            function GetProducts(term) {
+
+                $.ajax({
+                    url: '/Stock/GetProducts',
+                    type: 'POST',
+                    async: false,
+                    data: { id: term },
+                    success: function (result) {
+                        $("#partialViewManageStock").html(result);
+                    }
+                });
+            }
+
+            // Add button - diplays modal popup
+            var modalURL = '@Url.Action("Create")';
+            $(function () {
+                $(".add-product").click(function () {
+                    var options = { "backdrop": "static", keyboard: true };
+                    $.ajax({
+                        type: "GET",
+                        url: modalURL,
+                        contentType: "application/json; charset=utf-8",
+                        data: {},
+                        datatype: "json",
+                        success: function (data) {
+                            $('#addModalContent').html(data);
+                            $('#addProductModal').modal(options);
+                            $('#addProductModal').modal('show');
+                        },
+                        error: function () {
+                            alert("Dynamic content load failed.");
+                        }
+                    });
+                });
+
+                $("#closbtn").click(function () {
+                    $('#addProductModal').modal('hide');
+                });
+            });
+
+        });
+    </script>
+}

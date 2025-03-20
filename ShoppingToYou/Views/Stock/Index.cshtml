@@ -1,0 +1,75 @@
+﻿@*Staff homepage*@
+@model IEnumerable<Database.Models.LowStock>
+
+@{
+    ViewData["Title"] = "Low Stock";
+}
+
+<h1 class="heading">Low Stock</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ProductCode)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProductDescription)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.StockQuantity)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DefaultOrderQuantity)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.HiddenFor(modelItem => item.ID)
+                    @Html.DisplayFor(modelItem => item.ProductCode)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ProductDescription)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.StockQuantity)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DefaultOrderQuantity)
+                </td>
+                <td>
+                    <a href="#" data-id="@item.ID" data-qty="@item.DefaultOrderQuantity" class="order btn btn-success">Order</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a href="#" class="manage-stock btn btn-success">Manage Stock</a>
+
+@section Scripts {
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+
+            // Manage Stock button
+            var baseUrl = '@Url.Action("Manage")';
+            $(".manage-stock").click(function () {
+                location.href = baseUrl;
+            });
+        });
+
+            // Order button
+            var baseUrl = '@Url.Action("Increase")';
+            $(".order").click(function () {
+                var id = $(this).data('id');
+                var dftOrderQty = $(this).data('qty');
+                location.href = baseUrl + '?id=' + id + '&dftOrderQty=' + dftOrderQty;
+            });
+    </script>
+}

@@ -1,0 +1,80 @@
+﻿@*Search results page*@
+@model IEnumerable<ShoppingToYou.Models.ProductDetails>
+
+@{
+    ViewData["Title"] = "ProductDetails";
+}
+
+<div>
+    <a asp-action="index">Return Home</a>
+</div>
+
+<h1 class="heading">Search Results</h1>
+
+<input type="hidden" class="customer" id="custId" value="@ViewBag.CustomerId" />
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProductDescription)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProductPrice)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    <img src="@FileLocation.RetriveFileFromFolder@item.ImageName" class="img-thumbnail" height="80" width="80" asp-append-version="true" />
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ID)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ProductDescription)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ProductPrice)
+                </td>
+                <td>
+                    <input class="quantity" type="number" value="1" min="1" max="100" size="10" />
+                </td>
+                <td>
+                    <a href="#" data-id="@item.ID" class="order btn btn-success">Order</a>
+                </td>
+            </tr>
+        }
+
+    </tbody>
+</table>
+
+
+@section Scripts {
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            var baseUrl = '@Url.Action("Place")';
+            $(".order").click(function()
+            {
+                var id = $(this).data('id');
+                var custId = $("#custId").val();
+                var quantity = $(this).closest('tr').find('.quantity').val();
+                location.href = baseUrl + '?customerId=' + custId + '&productId=' + id + '&quantity=' + quantity;
+            });
+
+
+
+
+        });
+    </script>
+}

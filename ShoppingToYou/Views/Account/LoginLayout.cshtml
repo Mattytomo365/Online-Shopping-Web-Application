@@ -1,0 +1,25 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css">
+    @*<link href="~/site.css" rel="stylesheet" />*@
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <link rel="stylesheet" href="../css/site.css" />
+</head>
+<body>
+    <div class="header">
+        <img src="~/Uploads/newlogo.png" alt="newlogo" id="logo">
+        <h1 class="title">Shopping To You</h1>
+    </div>
+    <div class="container">
+
+        <div>
+            @RenderBody()
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,200 @@
+﻿@*Customer Homepage*@
+@model IEnumerable<ShoppingToYou.Models.OrderLines>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1 class="greeting">Welcome</h1>
+
+<input type="text" id="productTypes" placeholder="Search Products, Enter Product Type" style="margin-left: 420px; width: 270px; border: solid 1px #1b6aba;" />
+
+
+<div class="carouselposition">
+    <div class="carousel slide" data-ride="carousel" data-interval="3000">
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="~/Uploads/3redonionsPOTW.png" />
+                <img src="~/Uploads/babybellPOTW.png" />
+                <img src="~/Uploads/milkPOTW.png" />
+            </div>
+            <div class="carousel-item">
+                <img src="~/Uploads/bananaPOTW.png" />
+                <img src="~/Uploads/chickenPOTW.png" />
+                <img src="~/Uploads/cherrycoke8packjpegPOTW.png" />
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div id="partialViewProducts">
+
+</div>
+
+
+
+<input type="hidden" id="orderNo" value="@ViewBag.OrderNumber" />
+<input type="hidden" class="customer" id="custId" value="@ViewBag.CustomerId" />
+
+<div id='editOrderModal' class='modal'>
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div id='modalContent'></div>
+        </div>
+    </div>
+
+</div>
+
+@if (ViewBag.OrderNumber != "")
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.OrderNumber)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.ProductDescription)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.ProductPrice)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.OrderQuantity)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        <img src="@FileLocation.RetriveFileFromFolder@item.ImageName" class="img-thumbnail" height="80" width="80" asp-append-version="true" />
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.OrderNumber)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ProductDescription)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ProductPrice)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.OrderQuantity)
+                    </td>
+                    <td>
+                        <a href="#" data-id="@item.ID" class="delete-order btn btn-success">Delete</a>
+                    </td>
+                    <td>
+                        <a href="#" data-id="@item.ID" class="edit-order btn btn-success">Edit</a>
+                    </td>
+
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <a href="#" class="deliver-order btn btn-success">Finalise</a>
+}
+
+@section Scripts {
+
+    <script type="text/javascript">
+
+        $(document).ready(function () {
+
+            // Setup autocomplete search box
+            $("#productTypes").autocomplete({
+                source: function (request, response) {
+                    $.ajax({
+                        url: '/search',
+                        data: { "term": request.term },
+                        dataType: "json",
+                        success: function (data) {
+                            response($.map(data, function (item) {
+                                return {
+                                    label: item.productType
+                                }
+                                //return item;
+                            }))
+                        },
+                        error: function (xhr, textStatus, error) {
+                            alert(xhr.statusText);
+                            alert(textStatus);
+                            alert(error);
+                        },
+                        failure: function (response) {
+                            alert("failure " + response.responseText);
+                        }
+                    });
+                },
+                select: function (e, i) {
+                    GetProducts(i.item.label);
+                },
+                minLength: 3
+            });
+            // Routes to GetProducts action on selection from autocomplete
+            function GetProducts(term) {
+
+                var custId = $('#custId').val()
+                window.location.href = '@Url.Action("GetProducts", "Order")?term=' + term + '&custId=' + custId
+            }
+
+            // Finalise button
+            var deliveryURL = '@Url.Action("Delivery")';
+            $(".deliver-order").click(function () {
+                 var ordernumber = $("#orderNo").val();
+                location.href = deliveryURL + '?orderNumber=' + ordernumber;
+            });
+
+            // Delete button
+            var baseUrl = '@Url.Action("DeleteOrder")';
+            $(".delete-order").click(function () {
+                var id = $(this).data('id');
+                var custId = @ViewBag.CustomerId;
+                location.href = baseUrl + '?id=' + id + '&custId=' + custId;
+            });
+
+            // Edit button - diplays modal popup
+            var modalURL = '@Url.Action("EditOrder")';
+            $(function () {
+                $(".edit-order").click(function () {
+                    //debugger;
+                    var $buttonClicked = $(this);
+                    var id = $(this).data('id');
+                    var custId = $("#custId").val();
+                    var options = { "backdrop": "static", keyboard: true };
+                    $.ajax({
+                        type: "GET",
+                        url: modalURL,
+                        contentType: "application/json; charset=utf-8",
+                        data: { id: id, custId : custId },
+                        datatype: "json",
+                        success: function (data) {
+                            //debugger;
+                            $('#modalContent').html(data);
+                            $('#editOrderModal').modal(options);
+                            $('#editOrderModal').modal('show');
+
+                        },
+                        error: function () {
+                            alert("Dynamic content load failed.");
+                        }
+                    });
+                });
+
+                $("#closbtn").click(function () {
+                    $('#editOrderModal').modal('hide');
+                });
+            });
+        });
+    </script>
+}
+
+
