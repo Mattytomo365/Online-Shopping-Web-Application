@@ -1,4 +1,7 @@
 # Online Shopping Web Application
+
+---
+
 ## Overview
 This is an online shopping web application and stock management system that I built in Visual Studio, using ASP.NET MVC and C#. It is connected to a database developed in Microsoft's SQL Server Management Studio, containing tables that store data regarding user/administrative accounts, orders, and products. It also houses the various SQL statements for retrieving, adding, updating tables etc. These SQL statements are then called from the program through the use of repos.
 
@@ -39,7 +42,16 @@ This application allows for administrative roles, upon authentication, administr
 
 ## Project Structure
 The project is organized as follows:
-ShoppingToYou/ ├── Controllers/ # MVC Controllers for handling requests ├── Database/ # Repositories and database connection logic ├── Models/ # Data models for the application ├── Views/ # Razor views for rendering UI ├── wwwroot/ # Static files (CSS, JS, images) ├── appsettings.json # Configuration file for database connection ├── Startup.cs # Application startup configuration ├── Program.cs # Main entry point of the application └── ShoppingToYou.csproj # Project file
+ShoppingToYou/ 
+    ├── Controllers/ # MVC Controllers for handling requests 
+    ├── Database/ # Repositories and database connection logic 
+    ├── Models/ # Data models for the application 
+    ├── Views/ # Razor views for rendering UI 
+    ├── wwwroot/ # Static files (CSS, JS, images) 
+    ├── appsettings.json # Configuration file for database connection
+    ├── Startup.cs # Application startup configuration 
+    ├── Program.cs # Main entry point of the application 
+    └── ShoppingToYou.csproj # Project file
 
 ---
 
@@ -53,16 +65,22 @@ ShoppingToYou/ ├── Controllers/ # MVC Controllers for handling requests �
 
 ### Installation
 1. Clone the repository:
+
    ```
    git clone https://github.com/your-username/Online-Shopping-Web-Application.git
    ```
+
 2. Open the solution in Visual Studio 2022
+
 3. Configure the database connection:
     - Update the DefaultConnection string in appsettings.json to point to your SQL Server instance.
+
 4. Run the database migrations to create the database schema:
+
     ```
     Update-Database
     ```
+
 5. Build and run the application
 
 ### Usage
@@ -83,9 +101,9 @@ ShoppingToYou/ ├── Controllers/ # MVC Controllers for handling requests �
 ---
 
 ## Acknowledgments
-- **Bootstrap** for responsive UI components.
-- **Dapper** for lightweight ORM functionality.
-- **jQuery** for client-side scripting.
+- [Bootstrap](https://getbootstrap.com) for responsive UI components.
+- [Dapper](https://github.com/DapperLib/Dapper) for lightweight ORM functionality.
+- [jQuery](https://jquery.com) for client-side scripting.
 
 ---
 
@@ -98,5 +116,5 @@ Please fork the repository and submit a pull request with your changes.
 ## Contact
 For any questions or feedback, feel free to reach out:
 - **Email**: matty.tom@icloud.com
-- **GitHub**: Mattytomo365
+- **GitHub**: [Mattytomo365](https://github.com/Mattytomo365)
 
