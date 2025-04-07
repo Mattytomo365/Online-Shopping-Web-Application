@@ -41,7 +41,7 @@ This application allows for administrative roles, upon authentication, administr
 ---
 
 ## Project Structure
-The project is organized as follows:
+The project is organized as follows:<br/>
 ShoppingToYou<br/> 
     ├── Controllers/ # MVC Controllers for handling requests<br/>
     ├── Database/ # Repositories and database connection logic<br/>
