@@ -6,5 +6,97 @@ Users are provided with a seamless experience, inluding browsing products, manag
 
 This application allows for administrative roles, upon authentication, administrators can manage stock, and add/remove products from the database.
 
-**this will be added to**
+---
+
+## Features
+
+### Customer Features
+- **User Registration and Login**: Customers can register and log into their accounts.
+- **Product Search**: Search for products by type or description using an autocomplete search box.
+- **Shopping Cart**: Add products to the cart, edit quantities, and delete items.
+- **Order Placement**: Place orders and view a confirmation page after finalizing the order.
+- **Order History**: Returning customers can view their current and previous orders.
+
+### Admin Features
+- **Stock Management**: Administrators can view low-stock items, add new products, edit existing products, and delete products.
+- **Order Stock**: Replenish stock for low-stock items with a single click.
+- **Role-Based Access**: Admins have access to stock management features, while customers only see shopping-related features.
+
+---
+
+## Technologies Used
+- **Backend**: ASP.NET Core MVC (C#)
+- **Frontend**: Razor Views, HTML, CSS, JavaScript, jQuery, Bootstrap
+- **Database**: Microsoft SQL Server
+- **Authentication**: Cookie-based authentication with role-based access control
+- **Dependency Injection**: Used for repository and service management
+- **Libraries**:
+  - Dapper for lightweight ORM
+  - jQuery Validation for client-side form validation
+  - Bootstrap for responsive UI design
+
+---
+
+## Project Structure
+The project is organized as follows:
+ShoppingToYou/ ├── Controllers/ # MVC Controllers for handling requests ├── Database/ # Repositories and database connection logic ├── Models/ # Data models for the application ├── Views/ # Razor views for rendering UI ├── wwwroot/ # Static files (CSS, JS, images) ├── appsettings.json # Configuration file for database connection ├── Startup.cs # Application startup configuration ├── Program.cs # Main entry point of the application └── ShoppingToYou.csproj # Project file
+
+---
+
+## Setup Instructions
+
+### Prerequisites
+- .NET 5.0 SDK or later
+- Microsoft SQL Server
+- Visual Studio 2022
+- Node.js (optional, for managing frontend dependencies)
+
+### Installation
+1. Clone the repository:
+   ```
+   git clone https://github.com/your-username/Online-Shopping-Web-Application.git
+   ```
+2. Open the solution in Visual Studio 2022
+3. Configure the database connection:
+    - Update the DefaultConnection string in appsettings.json to point to your SQL Server instance.
+4. Run the database migrations to create the database schema:
+    ```
+    Update-Database
+    ```
+5. Build and run the application
+
+### Usage
+1. Register a new user account or log in with an exisiting account
+2. Browse products and add them to your shopping cart
+3. Proceed to checkout to place an order
+4. Administrators can log in to access the admin panel for stock management
+
+---
+
+## Key Files
+- **Startup.cs**: Configures services and middleware for the application.
+- **SqlServerConnection.cs**: Manages the database connection.
+- **StockController.cs**: Handles stock management features.
+- **OrderController.cs**: Handles customer order-related features.
+- **AccountController.cs**: Manages user authentication and registration.
+
+---
+
+## Acknowledgments
+- **Bootstrap** for responsive UI components.
+- **Dapper** for lightweight ORM functionality.
+- **jQuery** for client-side scripting.
+
+---
+
+## Contributing
+**Contributions are welcome!**
+Please fork the repository and submit a pull request with your changes.
+
+---
+
+## Contact
+For any questions or feedback, feel free to reach out:
+- **Email**: matty.tom@icloud.com
+- **GitHub**: Mattytomo365
 
