@@ -85,21 +85,21 @@ ShoppingToYou<br/>
 
 5. Restore dependencies:
 
-```
-dotnet restore
-```
+    ```
+    dotnet restore
+    ```
 
 6. Build the project:
 
-```
-dotnet build
-```
+    ```
+    dotnet build
+    ```
 
 7. Run the application:
 
-```
-dotnet run
-```
+    ```
+    dotnet run
+    ```
 
 ### Usage
 1. Register a new user account or log in with an exisiting account
