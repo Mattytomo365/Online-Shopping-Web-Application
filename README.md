@@ -37,7 +37,7 @@ This application allows for administrative roles, upon authentication, administr
   - Dapper for lightweight ORM
   - jQuery Validation for client-side form validation
   - Bootstrap for responsive UI design
-- **Visual Studio** IDE for development
+- **Visual Studio**: IDE for development
 
 ---
 
@@ -99,7 +99,6 @@ dotnet build
 
 ```
 dotnet run
-
 ```
 
 ### Usage
