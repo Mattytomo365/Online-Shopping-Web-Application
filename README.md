@@ -37,21 +37,22 @@ This application allows for administrative roles, upon authentication, administr
   - Dapper for lightweight ORM
   - jQuery Validation for client-side form validation
   - Bootstrap for responsive UI design
+- **Visual Studio** IDE for development
 
 ---
 
 ## Project Structure
 The project is organized as follows:<br/>
 ShoppingToYou<br/> 
-    ├── Controllers/ # MVC Controllers for handling requests<br/>
-    ├── Database/ # Repositories and database connection logic<br/>
-    ├── Models/ # Data models for the application<br/>
-    ├── Views/ # Razor views for rendering UI<br/>
-    ├── wwwroot/ # Static files (CSS, JS, images)<br/>
-    ├── appsettings.json # Configuration file for database connection<br/>
-    ├── Startup.cs # Application startup configuration<br/> 
-    ├── Program.cs # Main entry point of the application<br/>
-    └── ShoppingToYou.csproj # Project file
+    ├── Controllers/            # MVC Controllers for handling requests<br/>
+    ├── Database/               # Repositories and database connection logic<br/>
+    ├── Models/                 # Data models for the application<br/>
+    ├── Views/                  # Razor views for rendering UI<br/>
+    ├── wwwroot/                # Static files (CSS, JS, images)<br/>
+    ├── appsettings.json        # Configuration file for database connection<br/>
+    ├── Startup.cs              # Application startup configuration<br/> 
+    ├── Program.cs              # Main entry point of the application<br/>
+    └── ShoppingToYou.csproj    # Project file
 
 ---
 
@@ -68,6 +69,7 @@ ShoppingToYou<br/>
 
    ```
    git clone https://github.com/your-username/Online-Shopping-Web-Application.git
+   cd Online-Shopping-Web-Application
    ```
 
 2. Open the solution in Visual Studio 2022
@@ -81,7 +83,24 @@ ShoppingToYou<br/>
     Update-Database
     ```
 
-5. Build and run the application
+5. Restore dependencies:
+
+```
+dotnet restore
+```
+
+6. Build the project:
+
+```
+dotnet build
+```
+
+7. Run the application:
+
+```
+dotnet run
+
+```
 
 ### Usage
 1. Register a new user account or log in with an exisiting account
