@@ -38,6 +38,7 @@ This application allows for administrative roles, upon authentication, administr
   - jQuery Validation for client-side form validation
   - Bootstrap for responsive UI design
 - **Visual Studio**: IDE for development
+- **VS Code**: For GitHub deployment and README generation
 
 ---
 
@@ -63,6 +64,7 @@ ShoppingToYou<br/>
 - Microsoft SQL Server
 - Visual Studio 2022
 - Node.js (optional, for managing frontend dependencies)
+- Git (for cloning repository)
 
 ### Installation
 1. Clone the repository:
