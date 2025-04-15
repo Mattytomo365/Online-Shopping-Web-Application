@@ -43,18 +43,19 @@ This application allows for administrative roles, upon authentication, administr
 ---
 
 ## Project Structure
-The project is organized as follows:<br/>
-ShoppingToYou<br/> 
-    ├── Controllers/            # MVC Controllers for handling requests<br/>
-    ├── Database/               # Repositories and database connection logic<br/>
-    ├── Models/                 # Data models for the application<br/>
-    ├── Views/                  # Razor views for rendering UI<br/>
-    ├── wwwroot/                # Static files (CSS, JS, images)<br/>
-    ├── appsettings.json        # Configuration file for database connection<br/>
-    ├── Startup.cs              # Application startup configuration<br/> 
-    ├── Program.cs              # Main entry point of the application<br/>
+The project is organized as follows:
+```
+ShoppingToYou
+    ├── Controllers/            # MVC Controllers for handling requests
+    ├── Database/               # Repositories and database connection logic
+    ├── Models/                 # Data models for the application
+    ├── Views/                  # Razor views for rendering UI
+    ├── wwwroot/                # Static files (CSS, JS, images)
+    ├── appsettings.json        # Configuration file for database connection
+    ├── Startup.cs              # Application startup configuration
+    ├── Program.cs              # Main entry point of the application
     └── ShoppingToYou.csproj    # Project file
-
+```
 ---
 
 ## Setup Instructions
