@@ -45,7 +45,7 @@ This application allows for administrative roles, upon authentication, administr
 ## Project Structure
 The project is organized as follows:
 ```
-ShoppingToYou
+shoppingmvc
     ├── Controllers/            # MVC Controllers for handling requests
     ├── Database/               # Repositories and database connection logic
     ├── Models/                 # Data models for the application
@@ -72,33 +72,39 @@ ShoppingToYou
 
    ```
    git clone https://github.com/your-username/Online-Shopping-Web-Application.git
-   cd Online-Shopping-Web-Application
    ```
 
-2. Open the solution in Visual Studio 2022
+2. Navigate to the project directory:
 
-3. Configure the database connection:
+    ```
+    cd shoppingmvc
+    ```
+
+
+3. Open the solution in Visual Studio 2022
+
+4. Configure the database connection:
     - Update the DefaultConnection string in appsettings.json to point to your SQL Server instance.
 
-4. Restore dependencies:
+5. Restore dependencies:
 
     ```
     dotnet restore
     ```
 
-5. Run the database migrations to create the database schema:
+6. Run the database migrations to create the database schema:
 
     ```
     Update-Database
     ```
 
-6. Build the project:
+7. Build the project:
 
     ```
     dotnet build
     ```
 
-7. Run the application:
+8. Run the application:
 
     ```
     dotnet run
